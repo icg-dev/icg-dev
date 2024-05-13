@@ -1,4 +1,4 @@
-### Hi there 👋
+![https://github.com/russhdev](https://i.ibb.co/9WySw2V/russhdevprofile.png)
 
 🌱 I’m currently learning: Python
 
