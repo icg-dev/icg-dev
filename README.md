@@ -3,8 +3,8 @@
 🌱 I’m currently learning: Python
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-russh_dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/russhdev)
-[![Email](https://img.shields.io/badge/russh.carrillo@gmail.com-email_personal_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:russh.carrillo@gmail.com)
-[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-apoya_mi_trabajo-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/russhdev)
+[![Email](https://img.shields.io/badge/russh.carrillo@gmail.com-email_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:russh.carrillo@gmail.com)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-apoyame-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/russhdev)
 <!--
 **russhdev/russhdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
