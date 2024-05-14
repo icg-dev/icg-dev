@@ -1,5 +1,8 @@
 ## Hi there! i'm @russh 👋
+### Freelance full-stack developer
 [![https://github.com/russhdev](https://i.ibb.co/9WySw2V/russhdevprofile.png)](https://github.com/russhdev)
+[![Twitter Follow](https://img.shields.io/twitter/follow/russhdevmx?style=social)](https://twitter.com/russhdevmx)
+![GitHub Followers](https://img.shields.io/github/followers/russhdev?style=social)
 
 ## 💻 Languages and Tools:
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
