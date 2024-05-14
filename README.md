@@ -4,6 +4,11 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/russhdevmx?style=social)](https://twitter.com/russhdevmx)
 ![GitHub Followers](https://img.shields.io/github/followers/russhdev?style=social)
 
+💻 I’m right away working on backend with Python.
+🌱 I’m currently learning further around the backend world and its tools.
+🤓 I'm interested about DevOps and Cibersecurity.
+🦾 I’m looking to collaborate with other people in personal and business projects.
+
 ## 💻 Languages and Tools:
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
