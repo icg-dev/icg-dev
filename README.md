@@ -6,6 +6,7 @@
 
 ## 💻 Languages and Tools:
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![NodeJs](https://img.shields.io/badge/node.js-679e63.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![VScode](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
