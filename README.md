@@ -1,4 +1,4 @@
-## Hi there! i'm [@russh] 👋
+## Hi there! i'm @russh 👋
 [![https://github.com/russhdev](https://i.ibb.co/9WySw2V/russhdevprofile.png)](https://github.com/russhdev)
 
 ## 💻 Languages and Tools:
