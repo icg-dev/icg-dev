@@ -1,4 +1,4 @@
-![https://github.com/russhdev](https://i.ibb.co/9WySw2V/russhdevprofile.png)
+[![https://github.com/russhdev](https://i.ibb.co/9WySw2V/russhdevprofile.png)](https://github.com/russhdev)
 
 🌱 I’m currently learning: Python
 
