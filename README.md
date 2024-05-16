@@ -1,21 +1,17 @@
-## Hi there! i'm @russh 👋
+## Hola, mi nombre es Ivan Carrillo (@russh) 👋
 ### Freelance full-stack developer
 [![https://github.com/russhdev](https://i.ibb.co/9WySw2V/russhdevprofile.png)](https://github.com/russhdev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/russhdevmx?style=social)](https://twitter.com/russhdevmx)
 ![GitHub Followers](https://img.shields.io/github/followers/russhdev?style=social)
 
-- 💻 I’m right away working on backend with Python.
-- 🌱 I’m currently learning further around the backend world and its tools.
-- 🤓 I'm interested about DevOps and Cibersecurity.
-- 🦾 I’m looking to collaborate with other people in personal and business projects.
+- 💻 Actualmente estoy trabajando en el backend con Python.
+- 🌱 Actualmente estoy aprendiendo más sobre el mundo backend y sus herramientas.
+- 🤓 Me interesa DevOps y Ciberseguridad.
+- 🦾 Busco colaborar con otras personas en proyectos personales y empresariales.
 
-## 💻 Languages and Tools:
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![NodeJs](https://img.shields.io/badge/node.js-679e63.svg?style=for-the-badge&logo=node.js&logoColor=white)
+## 💻 Tecnologías:
+![My Skills](https://skillicons.dev/icons?i=python,html,css,js,bootstrap,vscode&perline=8)
 ![GeneXus](https://img.shields.io/badge/GeneXus-D12C1C?style=for-the-badge&logo=gitee&logoColor=white)
-![VScode](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 
 ## Contacto y apoyo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-russh_dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/russhdev)
