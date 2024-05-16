@@ -4,8 +4,8 @@
 ![GitHub Followers](https://img.shields.io/github/followers/russhdev?style=social)
 
 ## 💻 Tecnologías:
-![Python](https://img.shields.io/badge/Python-ffd747?style=for-the-badge&logo=python&logoColor=white&labelColor=3775a8)
-![Django](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)
+![Python](https://img.shields.io/badge/Python-3775a8?style=for-the-badge&logo=python&logoColor=white&labelColor=ffd747)
+![Django](https://img.shields.io/badge/Django-101010?style=for-the-badge&logo=django&logoColor=white&labelColor=092e20)
 ![HTML5](https://img.shields.io/badge/HTML5-e14e1d?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
 ![CSS3](https://img.shields.io/badge/CSS3-0277bd?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)<br>
