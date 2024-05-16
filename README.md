@@ -5,7 +5,7 @@
 ![GitHub Followers](https://img.shields.io/github/followers/russhdev?style=social)
 
 ## 💻 Tecnologías:
-![My Skills](https://skillicons.dev/icons?i=python,html,css,js,bootstrap,vscode,git,github,wordpress,photoshop&perline=10)<br>
+![My Skills](https://skillicons.dev/icons?i=python,html,css,js,bootstrap,vscode,git,github,wordpress,photoshop&perline=8)<br>
 ![GeneXus](https://img.shields.io/badge/GeneXus-D12C1C?style=for-the-badge&logo=gitee&logoColor=white)
 
 - 💻 Actualmente estoy trabajando en el backend con Python.
