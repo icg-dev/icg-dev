@@ -7,6 +7,7 @@
 ## 💻 Tecnologías:
 ![My Skills](https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,git,github,vscode,wordpress,photoshop&perline=8)<br>
 ![Python](https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
+![Django](https://img.shields.io/badge/Django-FFDD00?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)
 
 - 💻 Actualmente estoy trabajando en el backend con Python.
 - 🌱 Actualmente estoy aprendiendo más sobre el mundo backend y sus herramientas.
