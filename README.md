@@ -10,7 +10,7 @@
 - 🦾 Busco colaborar con otras personas en proyectos personales y empresariales.
 
 ## 💻 Tecnologías:
-![My Skills](https://skillicons.dev/icons?i=python,html,css,js,bootstrap,vscode&perline=8)
+![My Skills](https://skillicons.dev/icons?i=python,html,css,js,bootstrap,vscode&perline=8)<br>
 ![GeneXus](https://img.shields.io/badge/GeneXus-D12C1C?style=for-the-badge&logo=gitee&logoColor=white)
 
 ## Contacto y apoyo:
