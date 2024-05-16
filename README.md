@@ -6,7 +6,6 @@
 
 ## 💻 Tecnologías:
 ![My Skills](https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,git,github,vscode,wordpress,photoshop&perline=8)<br>
-![GeneXus](https://img.shields.io/badge/GeneXus-D12C1C?style=for-the-badge&logo=gitee&logoColor=white)
 
 - 💻 Actualmente estoy trabajando en el backend con Python.
 - 🌱 Actualmente estoy aprendiendo más sobre el mundo backend y sus herramientas.
