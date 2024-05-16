@@ -8,6 +8,14 @@
 ![My Skills](https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,git,github,vscode,wordpress,photoshop&perline=8)<br>
 ![Python](https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
 ![Django](https://img.shields.io/badge/Django-FFDD00?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)
+![HTML5](https://img.shields.io/badge/HTML5-FFDD00?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
+![CSS3](https://img.shields.io/badge/CSS3-FFDD00?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFDD00?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-FFDD00?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)
+![Git](https://img.shields.io/badge/Git-FFDD00?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)
+![GitHub](https://img.shields.io/badge/GitHub-FFDD00?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)
+![VSCode](https://img.shields.io/badge/VSCode-FFDD00?style=for-the-badge&logo=vscode&logoColor=white&labelColor=101010)
+![Photoshop](https://img.shields.io/badge/Photoshop-FFDD00?style=for-the-badge&logo=photoshop&logoColor=white&labelColor=101010)
 
 - 💻 Actualmente estoy trabajando en el backend con Python.
 - 🌱 Actualmente estoy aprendiendo más sobre el mundo backend y sus herramientas.
