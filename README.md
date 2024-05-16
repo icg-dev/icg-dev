@@ -1,4 +1,4 @@
-## Hola, mi nombre es Ivan Carrillo (russhdev) 👋
+## Hola, soy russh 👋
 [![https://github.com/russhdev](https://i.ibb.co/j8By4hY/russhdevprofile2.png)](https://github.com/russhdev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/russhdevmx?style=social)](https://twitter.com/russhdevmx)
 ![GitHub Followers](https://img.shields.io/github/followers/russhdev?style=social)
