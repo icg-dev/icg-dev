@@ -14,7 +14,8 @@
 ![Git](https://img.shields.io/badge/Git-101010?style=for-the-badge&logo=git&logoColor=white&labelColor=f03c2e)
 ![GitHub](https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=white&labelColor=242938)
 ![VSCode](https://img.shields.io/badge/VSCode-101010?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0877b9)
-![GeneXus](https://img.shields.io/badge/GeneXus-101010?style=for-the-badge&logo=gitee&logoColor=white&labelColor=DE1951)-->
+![GeneXus](https://img.shields.io/badge/GeneXus-101010?style=for-the-badge&logo=gitee&logoColor=white&labelColor=DE1951)
+-->
 
 - 💻 Actualmente estoy trabajando en el backend con Python.
 - 🌱 Actualmente estoy aprendiendo más sobre el mundo backend y sus herramientas.
