@@ -4,14 +4,14 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/russhdevmx?style=social)](https://twitter.com/russhdevmx)
 ![GitHub Followers](https://img.shields.io/github/followers/russhdev?style=social)
 
+## 💻 Tecnologías:
+![My Skills](https://skillicons.dev/icons?i=python,html,css,js,bootstrap,vscode&perline=8)<br>
+![GeneXus](https://img.shields.io/badge/GeneXus-D12C1C?style=for-the-badge&logo=gitee&logoColor=white)
+
 - 💻 Actualmente estoy trabajando en el backend con Python.
 - 🌱 Actualmente estoy aprendiendo más sobre el mundo backend y sus herramientas.
 - 🤓 Me interesa DevOps y Ciberseguridad.
 - 🦾 Busco colaborar con otras personas en proyectos personales y empresariales.
-
-## 💻 Tecnologías:
-![My Skills](https://skillicons.dev/icons?i=python,html,css,js,bootstrap,vscode&perline=8)<br>
-![GeneXus](https://img.shields.io/badge/GeneXus-D12C1C?style=for-the-badge&logo=gitee&logoColor=white)
 
 ## Contacto y apoyo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-russh_dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/russhdev)
