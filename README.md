@@ -4,7 +4,7 @@
 ![GitHub Followers](https://img.shields.io/github/followers/russhdev?style=social)
 
 ## 💻 Tecnologías:
-![My Skills](https://skillicons.dev/icons?i=py,django,html,css,js,bootstrap,git,github,vscode,windows,ai,ps&perline=8)
+![My Skills](https://skillicons.dev/icons?i=py,django,html,css,js,bootstrap,git,github,react,vscode,windows,ai,ps&perline=8)
 <!--![Python](https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&logoColor=white&labelColor=3775a8)
 ![Django](https://img.shields.io/badge/Django-101010?style=for-the-badge&logo=django&logoColor=white&labelColor=092e20)
 ![HTML5](https://img.shields.io/badge/HTML5-101010?style=for-the-badge&logo=html5&logoColor=white&labelColor=e14e1d)
