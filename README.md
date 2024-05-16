@@ -9,7 +9,7 @@
 ![Django](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)
 ![HTML5](https://img.shields.io/badge/HTML5-e14e1d?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
 ![CSS3](https://img.shields.io/badge/CSS3-0277bd?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
-![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
+![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)<br>
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8813fc?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)
 ![Git](https://img.shields.io/badge/Git-f03c2e?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)
 ![GitHub](https://img.shields.io/badge/GitHub-242938?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)
