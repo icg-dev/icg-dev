@@ -1,5 +1,4 @@
 ## Hola, mi nombre es Ivan Carrillo (@russh) 👋
-### Freelance full-stack developer
 [![https://github.com/russhdev](https://i.ibb.co/9WySw2V/russhdevprofile.png)](https://github.com/russhdev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/russhdevmx?style=social)](https://twitter.com/russhdevmx)
 ![GitHub Followers](https://img.shields.io/github/followers/russhdev?style=social)
