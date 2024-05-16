@@ -5,16 +5,6 @@
 
 ## 💻 Tecnologías:
 ![My Skills](https://skillicons.dev/icons?i=py,django,html,css,js,bootstrap,git,github,vscode&perline=5)
-![Python](https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&logoColor=white&labelColor=3775a8)
-![Django](https://img.shields.io/badge/Django-101010?style=for-the-badge&logo=django&logoColor=white&labelColor=092e20)
-![HTML5](https://img.shields.io/badge/HTML5-101010?style=for-the-badge&logo=html5&logoColor=white&labelColor=e14e1d)
-![CSS3](https://img.shields.io/badge/CSS3-101010?style=for-the-badge&logo=css3&logoColor=white&labelColor=0277bd)
-![JavaScript](https://img.shields.io/badge/JavaScript-101010?style=for-the-badge&logo=javascript&logoColor=white&labelColor=FFDD00)<br>
-![Bootstrap](https://img.shields.io/badge/Bootstrap-101010?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=8813fc)
-![Git](https://img.shields.io/badge/Git-101010?style=for-the-badge&logo=git&logoColor=white&labelColor=f03c2e)
-![GitHub](https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=white&labelColor=242938)
-![VSCode](https://img.shields.io/badge/VSCode-101010?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0877b9)
-![GeneXus](https://img.shields.io/badge/GeneXus-101010?style=for-the-badge&logo=gitee&logoColor=white&labelColor=DE1951)
 
 - 💻 Actualmente estoy trabajando en el backend con Python.
 - 🌱 Actualmente estoy aprendiendo más sobre el mundo backend y sus herramientas.
