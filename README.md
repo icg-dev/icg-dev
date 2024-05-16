@@ -1,5 +1,5 @@
 ## Hola, soy russh 👋
-[![https://github.com/russhdev](https://i.ibb.co/DLdqYm3/russhdevprofileblue.png)](https://github.com/russhdev)
+[![https://github.com/russhdev](https://i.ibb.co/264w1h5/russhdevprofileblue.png)](https://github.com/russhdev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/russhdevmx?style=social)](https://twitter.com/russhdevmx)
 ![GitHub Followers](https://img.shields.io/github/followers/russhdev?style=social)
 
