@@ -14,8 +14,9 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-FFDD00?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)
 ![Git](https://img.shields.io/badge/Git-FFDD00?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)
 ![GitHub](https://img.shields.io/badge/GitHub-FFDD00?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)
-![VSCode](https://img.shields.io/badge/VSCode-FFDD00?style=for-the-badge&logo=vscode&logoColor=white&labelColor=101010)
-![Photoshop](https://img.shields.io/badge/Photoshop-FFDD00?style=for-the-badge&logo=photoshop&logoColor=white&labelColor=101010)
+![VSCode](https://img.shields.io/badge/VSCode-FFDD00?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)
+![GeneXus](https://img.shields.io/badge/GeneXus-FFDD00?style=for-the-badge&logo=gitee&logoColor=white&labelColor=101010)
+![Photoshop](https://img.shields.io/badge/Photoshop-FFDD00?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=101010)
 
 - 💻 Actualmente estoy trabajando en el backend con Python.
 - 🌱 Actualmente estoy aprendiendo más sobre el mundo backend y sus herramientas.
