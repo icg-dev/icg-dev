@@ -14,7 +14,7 @@
 <!--![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react&perline=8)-->
 ### Backend
 ![Python](https://img.shields.io/badge/Python-0078d7?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F)
-![MongoDB](https://img.shields.io/badge/MongoDB-0078d7?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=0078d7)
+![MongoDB](https://img.shields.io/badge/MongoDB-199555?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=199555)
 ![Django](https://img.shields.io/badge/Django-0078d7?style=for-the-badge&labelColor=black&logo=django&logoColor=0078d7)
 <!--![My Skills](https://skillicons.dev/icons?i=py,django,mongodb&perline=8)-->
 ### Tools
