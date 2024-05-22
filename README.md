@@ -6,7 +6,7 @@
 
 ## 💻 Tecnologías:
 ### Frontend
-[![HTML](https://img.shields.io/badge/HTML-russh_dev-0077B5?style=flat-square&logo=html5&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/russhdev)
+[![HTML](https://img.shields.io/badge/HTML-russh_dev-0077B5?style=social&logo=html5&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/russhdev)
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react&perline=8)
 ### Backend
 ![My Skills](https://skillicons.dev/icons?i=py,django,mongodb&perline=8)
