@@ -6,12 +6,19 @@
 
 ## 💻 Tecnologías:
 ### Frontend
-[![HTML](https://img.shields.io/badge/HTML-russh_dev-0077B5?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/russhdev)
-![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react&perline=8)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+<!--![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react&perline=8)-->
 ### Backend
-![My Skills](https://skillicons.dev/icons?i=py,django,mongodb&perline=8)
+
+<!--![My Skills](https://skillicons.dev/icons?i=py,django,mongodb&perline=8)-->
 ### Tools
-![My Skills](https://skillicons.dev/icons?i=vscode,git,github,windows,ai,ps&perline=8)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<!--![My Skills](https://skillicons.dev/icons?i=vscode,git,github,windows,ai,ps&perline=8)-->
 
 - 💻 Actualmente estoy trabajando en el backend con Python.
 - 🌱 Actualmente estoy aprendiendo más sobre el mundo backend y sus herramientas.
