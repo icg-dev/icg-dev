@@ -9,7 +9,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/russhdevmx?style=social)](https://twitter.com/russhdevmx)
 ![GitHub Followers](https://img.shields.io/github/followers/russhdev?style=social)
 <h3>
-        <samp>&gt; Hola!, soy
+        <samp>&gt;
                 <b>Soy un <a target="_blank" href="https://github.com/russhdev">programador</a> de aplicaciones web <a target="_blank" href="https://github.com/russhdev">full stack</a> de <b>México</b></b>
         </samp>
 </h3>
