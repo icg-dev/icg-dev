@@ -16,8 +16,8 @@
 
 <!--![My Skills](https://skillicons.dev/icons?i=py,django,mongodb&perline=8)-->
 ### Tools
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&labelColor=black&logo=visual%20studio&logoColor=0078d7)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)
 <!--![My Skills](https://skillicons.dev/icons?i=vscode,git,github,windows,ai,ps&perline=8)-->
 
 - 💻 Actualmente estoy trabajando en el backend con Python.
