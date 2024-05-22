@@ -15,6 +15,11 @@
 </h3>
 Amante de la tecnología, me adentré al mundo de la programación utilizando primeramente un generador de código (GeneXus), el cual aún sigo utilizando para mi trabajo diario y en el cual he desarrollado aplicaciones Win/Web en C# /.NET Framework. A poco fui interesándome más por la programación y quedé cautivado por Python, de él emanó todo el interés de aprender y estudiar todo para poder desarrollar tanto el backend como el frontend de mis aplicaciones.
 
+- 💻 Actualmente estoy trabajando en el backend con Python.
+- 🌱 Actualmente estoy aprendiendo más sobre el mundo backend y sus herramientas.
+- 🤓 Me interesa DevOps y Ciberseguridad.
+- 🦾 Busco colaborar con otras personas en proyectos personales y empresariales.
+  
 ## Tecnologías:
 ### Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
@@ -33,11 +38,6 @@ Amante de la tecnología, me adentré al mundo de la programación utilizando pr
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&labelColor=black&logo=github&logoColor=FFFFFF)
 <!--![My Skills](https://skillicons.dev/icons?i=vscode,git,github,windows,ai,ps&perline=8)-->
-
-- 💻 Actualmente estoy trabajando en el backend con Python.
-- 🌱 Actualmente estoy aprendiendo más sobre el mundo backend y sus herramientas.
-- 🤓 Me interesa DevOps y Ciberseguridad.
-- 🦾 Busco colaborar con otras personas en proyectos personales y empresariales.
 
 ## Contacto y apoyo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-russh_dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/russhdev)
