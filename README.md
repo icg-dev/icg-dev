@@ -18,6 +18,7 @@
 ### Tools
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&labelColor=black&logo=visual%20studio&logoColor=0078d7)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-F05032?style=for-the-badge&labelColor=black&logo=github&logoColor=FFFFFF)
 <!--![My Skills](https://skillicons.dev/icons?i=vscode,git,github,windows,ai,ps&perline=8)-->
 
 - 💻 Actualmente estoy trabajando en el backend con Python.
