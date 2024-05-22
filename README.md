@@ -5,7 +5,7 @@
 </h3>
 
 [![https://github.com/russhdev](https://i.ibb.co/264w1h5/russhdevprofileblue.png)](https://github.com/russhdev)
-![](https://komarev.com/ghpvc/?username=russhdev&color=blue)
+![ViewCount](https://komarev.com/ghpvc/?username=russhdev&color=blue)
 [![Twitter Follow](https://img.shields.io/twitter/follow/russhdevmx?style=social)](https://twitter.com/russhdevmx)
 ![GitHub Followers](https://img.shields.io/github/followers/russhdev?style=social)
 <h3>
@@ -20,8 +20,7 @@ Amante de la tecnología, me adentré al mundo de la programación utilizando pr
 - 🤓 Me interesa DevOps y Ciberseguridad.
 - 🦾 Busco colaborar con otras personas en proyectos personales y empresariales.
 
-
-## Tecnologías:
+## Tecnologías que utilizo:
 ### Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)
