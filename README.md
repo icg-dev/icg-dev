@@ -1,6 +1,7 @@
+<!--
 <h3 align="center">
         <samp>&gt; Hola!, soy
-                <b><a target="_blank" href="https://github.com/russhdev">russh 👋</a></b>
+                <b><a target="_blank" href="https://github.com/russhdev">icg 👋</a></b>
         </samp>
 </h3>
 
@@ -27,19 +28,19 @@ Amante de la tecnología, me adentré al mundo de la programación utilizando pr
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=563D7C)
-<!--![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react&perline=8)-->
+<!--![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react&perline=8)
 ### Backend
 ![Python](https://img.shields.io/badge/Python-0078d7?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F)
 ![MongoDB](https://img.shields.io/badge/MongoDB-199555?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=199555)
 ![Django](https://img.shields.io/badge/Django-113527?style=for-the-badge&labelColor=black&logo=django&logoColor=113527)
-<!--![My Skills](https://skillicons.dev/icons?i=py,django,mongodb&perline=8)-->
+<!--![My Skills](https://skillicons.dev/icons?i=py,django,mongodb&perline=8)
 ### Tools
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&labelColor=black&logo=visual%20studio&logoColor=0078d7)
 ![GeneXus](https://img.shields.io/badge/GeneXus-C30032?style=for-the-badge&labelColor=black&logo=Gitee&logoColor=C30032)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&labelColor=black&logo=github&logoColor=FFFFFF)
 
-<!--![My Skills](https://skillicons.dev/icons?i=vscode,git,github,windows,ai,ps&perline=8)-->
+<!--![My Skills](https://skillicons.dev/icons?i=vscode,git,github,windows,ai,ps&perline=8)
 
 ## Contacto y apoyo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-russh_dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/russhdev)
