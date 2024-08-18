@@ -5,28 +5,28 @@
         </samp>
 </h3>
 
-[![https://github.com/icg-dev](https://i.ibb.co/7bFYdjX/icgbanner.png)](https://github.com/icg-dev)
+<!--[![https://github.com/icg-dev](https://i.ibb.co/7bFYdjX/icgbanner.png)](https://github.com/icg-dev)-->
 ![ViewCount](https://komarev.com/ghpvc/?username=russhdev&color=blue)
 [![Twitter Follow](https://img.shields.io/twitter/follow/russhdevmx?style=social)](https://twitter.com/russhdevmx)
 ![GitHub Followers](https://img.shields.io/github/followers/russhdev?style=social)
 <h3>
         <samp>&gt;
-                <b>Soy un <a target="_blank" href="https://github.com/russhdev">programador</a> de aplicaciones web <a target="_blank" href="https://github.com/russhdev">full stack</a> de <b>México</b></b>
+                <b>Soy un <a target="_blank" href="https://github.com/icg-dev">programador</a> de aplicaciones web <a target="_blank" href="https://github.com/icg-dev">full stack</a> de <b>México</b></b>
         </samp>
 </h3>
 Amante de la tecnología, me adentré al mundo de la programación utilizando primeramente un generador de código (GeneXus), el cual aún sigo utilizando para mi trabajo diario y en el cual he desarrollado aplicaciones Win/Web en C# /.NET Framework. A poco fui interesándome más por la programación y quedé cautivado por Python, de él emanó todo el interés de aprender y estudiar todo para poder desarrollar tanto el backend como el frontend de mis aplicaciones.<br><br>
-<!--
+
 - 💻 Actualmente estoy trabajando en el backend con Python.
 - 🌱 Actualmente estoy aprendiendo más sobre el mundo backend y sus herramientas.
 - 🤓 Me interesa DevOps y Ciberseguridad.
 - 🦾 Busco colaborar con otras personas en proyectos personales y empresariales.
-<!--
+
 ## Tecnologías que utilizo:
 ### Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+<!--![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+<!--![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=563D7C)
 <!--![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react&perline=8)
 ### Backend
