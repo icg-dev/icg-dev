@@ -3,7 +3,7 @@
 <img src="https://i.ibb.co/rv07YWm/icglogo.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Logo jjean_dev png">
 
 <p align="left">
-Hola, mi nombre es Ivan Carrillo G.! Me gusta compartir conocimiento y resolver problemas, y segun mi perspectiva, la tecnologia es un recurso para lograr nuestras metas. Actualmente trabajo como programador en una empresa. Soy un apasionado de la tecnologia y siempre estoy dispuesto y trato de aprender nuevas cosas como nuevos lenguajes, metodos, tecnicas, etc...<br> <br>
+Hola, mi nombre es ##Ivan Carrillo G.!## Me gusta compartir conocimiento y resolver problemas, y segun mi perspectiva, la tecnologia es un recurso para lograr nuestras metas. Actualmente trabajo como programador en una empresa. Soy un apasionado de la tecnologia y siempre estoy dispuesto y trato de aprender nuevas cosas como nuevos lenguajes, metodos, tecnicas, etc...<br> <br>
 
 ### Mis Habilidades: <br/> <br/> ![Python](https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python) ![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3)
 
