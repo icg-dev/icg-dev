@@ -14,6 +14,7 @@
                 <b>Soy un <a target="_blank" href="https://github.com/icg-dev">programador</a> de aplicaciones web <a target="_blank" href="https://github.com/icg-dev">full stack</a> de <b>México</b></b>
         </samp>
 </h3>-->
+<!--
 Amante de la tecnología, me adentré al mundo de la programación utilizando primeramente un generador de código (GeneXus), el cual aún sigo utilizando para mi trabajo diario y en el cual he desarrollado aplicaciones Win/Web en C# /.NET Framework. A poco fui interesándome más por la programación y quedé cautivado por Python, de él emanó todo el interés de aprender y estudiar todo para poder desarrollar tanto el backend como el frontend de mis aplicaciones.<br><br>
 <!--
 - 💻 Actualmente estoy trabajando en el backend con Python.
