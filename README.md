@@ -1,10 +1,10 @@
-<!--
+
 <h3 align="center">
         <samp>&gt; Hola!, soy
-                <b><a target="_blank" href="https://github.com/russhdev">icg 👋</a></b>
+                <b><a target="_blank" href="https://github.com/icg-dev">icg 👋</a></b>
         </samp>
 </h3>
-
+<!--
 [![https://github.com/russhdev](https://i.ibb.co/264w1h5/russhdevprofileblue.png)](https://github.com/russhdev)
 ![ViewCount](https://komarev.com/ghpvc/?username=russhdev&color=blue)
 [![Twitter Follow](https://img.shields.io/twitter/follow/russhdevmx?style=social)](https://twitter.com/russhdevmx)
@@ -15,12 +15,12 @@
         </samp>
 </h3>
 Amante de la tecnología, me adentré al mundo de la programación utilizando primeramente un generador de código (GeneXus), el cual aún sigo utilizando para mi trabajo diario y en el cual he desarrollado aplicaciones Win/Web en C# /.NET Framework. A poco fui interesándome más por la programación y quedé cautivado por Python, de él emanó todo el interés de aprender y estudiar todo para poder desarrollar tanto el backend como el frontend de mis aplicaciones.<br><br>
-
+<!--
 - 💻 Actualmente estoy trabajando en el backend con Python.
 - 🌱 Actualmente estoy aprendiendo más sobre el mundo backend y sus herramientas.
 - 🤓 Me interesa DevOps y Ciberseguridad.
 - 🦾 Busco colaborar con otras personas en proyectos personales y empresariales.
-
+<!--
 ## Tecnologías que utilizo:
 ### Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
