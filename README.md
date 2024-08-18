@@ -5,7 +5,7 @@
         </samp>
 </h3>
 
-[![https://github.com/icg-dev]([https://i.ibb.co/7bFYdjX/icgbanner.png])](https://github.com/icg-dev)
+[![https://github.com/icg-dev](https://i.ibb.co/7bFYdjX/icgbanner.png)](https://github.com/icg-dev)
 ![ViewCount](https://komarev.com/ghpvc/?username=russhdev&color=blue)
 [![Twitter Follow](https://img.shields.io/twitter/follow/russhdevmx?style=social)](https://twitter.com/russhdevmx)
 ![GitHub Followers](https://img.shields.io/github/followers/russhdev?style=social)
