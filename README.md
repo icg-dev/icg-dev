@@ -20,7 +20,7 @@ Amante de la tecnología, me adentré al mundo de la programación utilizando pr
 - 🌱 Actualmente estoy aprendiendo más sobre el mundo backend y sus herramientas.
 - 🤓 Me interesa DevOps y Ciberseguridad.
 - 🦾 Busco colaborar con otras personas en proyectos personales y empresariales.
--->
+
 ## Tecnologías que utilizo:
 ### Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
