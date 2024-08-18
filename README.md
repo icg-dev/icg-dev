@@ -8,7 +8,7 @@
 <!--[![https://github.com/icg-dev](https://i.ibb.co/7bFYdjX/icgbanner.png)](https://github.com/icg-dev)-->
 ![ViewCount](https://komarev.com/ghpvc/?username=russhdev&color=blue)
 [![Twitter Follow](https://img.shields.io/twitter/follow/russhdevmx?style=social)](https://twitter.com/russhdevmx)
-![GitHub Followers](https://img.shields.io/github/followers/russhdev?style=social)
+![GitHub Followers](https://img.shields.io/github/followers/icg-dev?style=social)
 <h3>
         <samp>&gt;
                 <b>Soy un <a target="_blank" href="https://github.com/icg-dev">programador</a> de aplicaciones web <a target="_blank" href="https://github.com/icg-dev">full stack</a> de <b>México</b></b>
