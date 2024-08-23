@@ -1,6 +1,6 @@
 ### Hello World 🐱‍💻 
 # [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/icarrillog/)](https://www.linkedin.com/in/icarrillog/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/icg-dev/)](https://github.com/icg-dev/) [![Instagram](https://img.shields.io/badge/-instagram-D42F8A?style=flat&logo=instagram&logoColor=white&link="")](#) ![](https://komarev.com/ghpvc/?username=icg-dev)
-<img src="https://i.ibb.co/S56BH6X/icglogo.png" min-width="250px" max-width="250px" width="250px" align="right" alt="icg logo png">
+<img src="https://i.ibb.co/S56BH6X/icglogo.png" min-width="250px" max-width="250px" width="250px" align="right" alt="icg logo png"> 
 
 <p align="left">
 Hola, mi nombre es Ivan Carrillo G.! Me gusta compartir conocimiento y resolver problemas, y segun mi perspectiva, la tecnologia es un recurso para lograr nuestras metas. Actualmente trabajo como programador en una empresa. Soy un apasionado de la tecnologia y siempre estoy dispuesto y trato de aprender nuevas cosas como nuevos lenguajes, metodos, tecnicas, etc...<br> <br>
